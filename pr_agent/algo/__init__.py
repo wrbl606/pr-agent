@@ -112,6 +112,12 @@ MAX_TOKENS = {
     "deepinfra/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B": 128000,
     "deepinfra/deepseek-ai/DeepSeek-R1-Distill-Llama-70B": 128000,
     "deepinfra/deepseek-ai/DeepSeek-R1": 128000,
+    "mistral/codestral-latest": 256000,
+    "mistral/codestral-mamba-latest": 256000,
+    "mistral/large-latest": 131000,
+    "mistral/small-latest": 131000,
+    "mistral/ministral-8b-latest": 131000,
+    "mistral/ministral-3b-latest": 131000,
 }
 
 USER_MESSAGE_ONLY_MODELS = [
